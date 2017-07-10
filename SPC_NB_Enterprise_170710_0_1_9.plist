@@ -14,6 +14,17 @@
 					<string>https://github.com/crenian-nbreds/ios_app/raw/master/SPC_NB_Enterprise_170710_0_1_9.ipa</string>
 				</dict>
 			</array>
+			<key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.nbreds.spc.mango</string>
+                <key>bundle-version</key>
+                <string>0.1.9</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>O2 Point</string>
+        	</dict>
 		</dict>
 	</array>
 </dict>
