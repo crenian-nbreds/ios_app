@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/crenian-nbreds/ios_app/raw/master/SPC_NB_Enterprise_170801_0_2_5.ipa</string>
+					<string>https://github.com/crenian-nbreds/ios_app/raw/master/SPC_NB_Enterprise_170803_0_2_6.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
                 <string>com.nbreds.spc.mango</string>
                 <key>bundle-version</key>
-                <string>0.2.5</string>
+                <string>0.2.6</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
