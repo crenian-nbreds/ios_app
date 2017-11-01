@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.nbreds.spc.mango.manager</string>
+				<string>com.nbreds.spc.mango</string>
 				<key>bundle-version</key>
 				<string>0.3.9</string>
 				<key>kind</key>
